@@ -1,8 +1,12 @@
 # MAC Brand Guidelines
 
+## The Basics
+
 **Company name:** Madison Ave. Collective (MAC)  
 **Tagline:** Creative Partner for Public Good™  
 **Company website:** https://www.madcollective.com/  
+**Founded on:** August 8, 2008  
+**Parent organization:** Collective Good Creative, Inc. (only used in official documents)
 
 ## About MAC
 
