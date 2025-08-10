@@ -73,6 +73,8 @@ We also leverage metaphors associated with our target verticals and community fe
 
 Our voice is energetic and engaging, with an enthusiasm for knowledge that makes our expertise feel approachable, and a touch of accessible humor (when appropriate) to add levity to no-nonsense topics.
 
+Our voice should be smart, energetic, and — when appropriate — witty. Clear, but never boring.  
+
 ## Messaging Examples
 
 ### Differentiators
