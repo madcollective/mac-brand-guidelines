@@ -2,6 +2,7 @@
 
 **Company name:** Madison Ave. Collective (MAC)  
 **Tagline:** Creative Partner for Public Good™
+**Company website:** https://www.madcollective.com/
 
 ## About MAC
 
